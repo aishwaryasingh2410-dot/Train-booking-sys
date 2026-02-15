@@ -99,15 +99,6 @@ Contributions are welcome! Feel free to fork this project, submit issues, or ope
 
 ---
 
-## 👤 Contact
-
-Feel free to reach out for any questions or feedback!  
-
-**Amar Dharma Rakhpasre**  
-📧 [rakhpasreamar@gmail.com](mailto:rakhpasreamar@gmail.com)
-
----
-
 > Note: This is a prototype application developed for educational purposes as part of a final-year college project.
 
 ---
