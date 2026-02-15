@@ -99,12 +99,6 @@ Contributions are welcome! Feel free to fork this project, submit issues, or ope
 
 ---
 
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
-
----
-
 ## 👤 Contact
 
 Feel free to reach out for any questions or feedback!  
